@@ -1,5 +1,5 @@
 {
-    "name": "Basic Breakout",
+    "name": "Advanced Breakout",
     "dependencies": {
         "device": "*"
     },
